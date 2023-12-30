@@ -1,1 +1,0 @@
-sk babel configuratuin
